@@ -1,6 +1,6 @@
 {
   "public": true,
   "rewrites": [
-    { "source": "/", "destination": "/Website1.html" }
+    { "source": "/", "destination": "/Suki.html" }
   ]
 }
